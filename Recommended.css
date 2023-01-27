@@ -1,0 +1,41 @@
+.Recommended_card_end{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.Recommended_card_end p{
+margin: 0px;
+}
+.Recommended_card_end_1{
+    border: solid black 1px;
+    border-radius:20px;
+    padding: 0px 8px 0px 8px;
+    background-color: #8aff059f;
+    font-size:11px ;
+}
+
+.Recommended_card_end_1 p{
+    margin: 0px;
+}
+.Recommended_card_word{
+    text-align: start;
+    
+    font-size:14px;
+}
+
+.Recommended_card_word p:nth-child(1){
+margin: 0;
+}
+
+.Recommended_card_word p :nth-child(3){
+    color:red;
+    font-weight: bold;
+    }
+    .Recommended_card_word span:nth-child(1){
+        font-size: 11px;
+    }
+        .Recommended_card_word span:nth-child(2){
+            font-size: 15px;
+            font-weight: bold;
+    }
